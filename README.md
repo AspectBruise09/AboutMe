@@ -1,4 +1,4 @@
-**Oh-My-Posh Bash Install.sh** And **Oh-My-Posh ZShell Install.zsh** Are Not Completed
+[**Oh-My-Posh Bash Install.sh**](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20Bash%20Install.sh) And [**Oh-My-Posh ZShell Install.zsh**](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20ZShell%20Install.zsh) Are Not Completed
 
 To Delete And UnInstall Oh-My-Posh PowerShell Install.ps1 You Should Use These Commands:
 
