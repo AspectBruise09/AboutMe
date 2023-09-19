@@ -1,4 +1,4 @@
-Life = "Normal"
+Life = "Good"
 # Life = input("Enter Your Mental Status(Bad, Normal, Good): --> ")
 
 if Life == "Good":
