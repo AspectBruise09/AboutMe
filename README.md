@@ -4,8 +4,19 @@
 # 🔶 Oh-My-Posh 🔶
 ## 🔹 Installation
 <!-- DownLoad And Run [Oh-My-Posh PowerShell Install.ps1](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20PowerShell%20Install.ps1) -->
-DownLoad And Run [Oh-My-Posh PowerShell Install v2.py](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20PowerShell%20Install%20v2.py)
-> **Note:** [Oh-My-Posh Bash Install.sh](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20Bash%20Install.sh) And [Oh-My-Posh ZShell Install.zsh](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20ZShell%20Install.zsh) Are <ins>**Not**</ins> Completed.
+DownLoad [Oh-My-Posh PowerShell Install v2.py](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20PowerShell%20Install%20v2.py) And Run It By Using `python <path>` In PowerShell.
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+> [!Note]
+> [Oh-My-Posh Bash Install.sh](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20Bash%20Install.sh) And [Oh-My-Posh ZShell Install.zsh](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20ZShell%20Install.zsh) Are <ins>**Not**</ins> Completed.
 ## 🔹 UnInstallation
 To Delete And UnInstall [Oh-My-Posh PowerShell Install v2.py](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20PowerShell%20Install%20v2.py); You Should Use These Commands:
 
