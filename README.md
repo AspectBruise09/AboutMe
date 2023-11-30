@@ -18,7 +18,7 @@ DownLoad [Oh-My-Posh PowerShell Install v2.py](https://github.com/AspectBruise09
 > [!Note]
 > [Oh-My-Posh Bash Install.sh](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20Bash%20Install.sh) And [Oh-My-Posh ZShell Install.zsh](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20ZShell%20Install.zsh) Are <ins>**Not**</ins> Completed.
 ## 🔹 UnInstallation
-To Delete And UnInstall [Oh-My-Posh PowerShell Install v2.py](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20PowerShell%20Install%20v2.py); You Should Use These Commands:
+To Delete And UnInstall [Oh-My-Posh PowerShell Install v2.py](https://github.com/AspectBruise09/AboutMe/blob/main/Oh-My-Posh%20PowerShell%20Install%20v2.py); You Should Use These Commands In PowerShell:
 
 `Remove-Item "$env:USERPROFILE\AppData\Local\Programs\oh-my-posh" -Force -Recurse`.
 
