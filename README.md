@@ -17,7 +17,7 @@ After That, Delete `oh-my-posh init pwsh --config 'C:\Users\<USER>\<theme>.omp.j
 ```py
 import subprocess
 
-theme = input("Enter The Name Of Theme You Want. (Note:You Can See All Themes In https://ohmyposh.dev/docs/themes) : --> ")
+theme = input("Enter The Name Of Theme You Want (Note: You Can See All Themes In https://ohmyposh.dev/docs/themes). : --> ")
 
 PowerShell = r"""Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/{theme}.omp.json" -OutFile "$env:USERPROFILE\{theme}.omp.json"
