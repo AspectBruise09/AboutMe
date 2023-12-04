@@ -29,8 +29,6 @@ result = subprocess.run(["powershell", "-Command", PowerShell], capture_output=T
 print(result.stdout.decode())
 ```
 ## 🔹 • Assets
-[^1].
-[^2].
+[^1]
 
 [^1]:
-[^2]:
