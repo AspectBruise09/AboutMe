@@ -13,6 +13,7 @@ To Delete And UnInstall [Oh-My-Posh PowerShell Install v2.py](https://github.com
 `Remove-Item "$env:USERPROFILE\AppData\Local\Programs\oh-my-posh" -Force -Recurse`.
 
 After That, Delete `oh-my-posh init pwsh --config 'C:\Users\<USER>\<theme>.omp.json' | Invoke-Expression` Line By Using `notepad $PROFILE`.
+Also You Can Delete Source Theme File In `C:\Users\<USER>` Directory.
 ## 🔹 • Code
 ```py
 import subprocess
